@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/RapplicationPortfolio/static/css/main.0134832a.css",
+    "main.js": "/RapplicationPortfolio/static/js/main.4cd95071.js",
+    "static/js/377.cc6bcced.chunk.js": "/RapplicationPortfolio/static/js/377.cc6bcced.chunk.js",
+    "service-worker.js": "/RapplicationPortfolio/service-worker.js",
+    "index.html": "/RapplicationPortfolio/index.html",
+    "main.0134832a.css.map": "/RapplicationPortfolio/static/css/main.0134832a.css.map",
+    "main.4cd95071.js.map": "/RapplicationPortfolio/static/js/main.4cd95071.js.map",
+    "377.cc6bcced.chunk.js.map": "/RapplicationPortfolio/static/js/377.cc6bcced.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0134832a.css",
+    "static/js/main.4cd95071.js"
+  ]
+}
